@@ -16,4 +16,4 @@ Venturi Pneumatics - TBA
 Venturi Motion System - Check out the Voron V1.8 (more details will be added)
 
 
-[![Prototype](https://github.com/Oakman-Industries/Venturi/blob/main/TBA.png)](https://github.com/Oakman-Industries/Venturi/)
+[![Prototype](https://github.com/Oakman-Dev/Venturi/blob/main/TBA.png)](https://github.com/Oakman-Industries/Venturi/)
