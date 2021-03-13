@@ -23,9 +23,11 @@ A first attempt and proof-of-concept, this design is smaller and does not allow 
 
 
 ## To-do list:
-[] Design LED source, perhaps with Fresnel lenses?
-[] Write a step by step guide
-[] Improve cable management
+[ ] Design LED source, perhaps with Fresnel lenses?
+
+[ ] Write a step by step guide
+
+[ ] Improve cable management
 
 
 ## Want to donate to the project?
