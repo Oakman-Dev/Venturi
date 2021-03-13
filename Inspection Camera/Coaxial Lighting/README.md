@@ -31,4 +31,4 @@ A first attempt and proof-of-concept, this design is smaller and does not allow 
 ## Want to donate to the project?
 The best way you can support the project is to help improve parts! If you'd like to donate money anyway, please do so to the amazing [Voron team](https://vorondesign.com) instead!
 
-[![Prototype](https://github.com/Oakman-Industries/Venturi/blob/main/Inspection%20Camera/Coaxial%20Lighting/V1/Images/V1-Prototype.jpg)](https://github.com/Oakman-Industries/Venturi/)
+[![Prototype](https://github.com/Oakman-Dev/Venturi/blob/main/Inspection%20Camera/Coaxial%20Lighting/V1/Images/V1-Prototype.jpg)](https://github.com/Oakman-Industries/Venturi/)
